@@ -5,6 +5,8 @@
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-How to Run">How to Run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-How to contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-License">License</a>
 </p>
 
@@ -39,6 +41,6 @@ This project has two routes of the Post method, where one creates the users and 
 
 After the merge of your pull request was made, you can delete your branch.
 
-## :memo: License
+## :memo:License
 
 This project is under License MIT. See the documentation [LICENSE](LICENSE) for more details.

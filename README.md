@@ -27,6 +27,7 @@ This is a project with the intention of exercising Backend skills with NodeJs.
 This project has two routes of the Post method, where one creates the users and the other authenticates. The part of protecting a route is done with a middleware. This middleware receives the token through the "Bearer Token", selected through the jsonwebtoken and returning if it is authorized or not.
 
 ## 🏃 How to Run
+- Connect with your mongodb in Database folder
 - Make a fork;
 - Open the project on your terminal;
 - Run `yarn install` or `npm install` to install Dependencies;

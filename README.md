@@ -1,5 +1,5 @@
 <p align = "center" >
-  <h1 align="center">Calculate Degrees 🧪</h1>
+  <h1 align="center">Auth user 🔒️</h1>
 </p>
 
 <p align="center">

@@ -18,6 +18,24 @@ This project was developed with:
 - Mongodb
 - Bcryptjs
 - Jsonwebtoken
+- 
+## 🏃 How to Run
+
+- Make a fork;
+- Open the project on your terminal;
+- Run `yarn install` or `npm install` to install Dependencies;
+- Run `yarn start` or `npm run start` to run the server;
+- By default the server will run at `localhost:3000`.
+
+## 🤔 How to contribute
+
+- Make a fork;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Do commit with your changes: `git commit -m 'feat: My new feature'`;
+- Do a push for your branch: `git push origin my-feature`.
+
+After the merge of your pull request was made, you can delete your branch.
+
 
 ## 🧑‍💻 Project
 
